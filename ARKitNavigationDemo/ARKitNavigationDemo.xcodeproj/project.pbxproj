@@ -119,6 +119,7 @@
 		A79518D31F7A1FF90030E21A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A79518D51F7A24270030E21A /* ApplicationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationService.swift; sourceTree = "<group>"; };
 		A7B30E7A1F79D9C600BDA025 /* StartViewControllerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewControllerDelegate.swift; sourceTree = "<group>"; };
+		FAF33CCE1F9207D8002F0309 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +150,7 @@
 		A74AF0861F6CA2480000CD5F = {
 			isa = PBXGroup;
 			children = (
+				FAF33CCE1F9207D8002F0309 /* README.md */,
 				A74AF0911F6CA2480000CD5F /* ARKitNavigationDemo */,
 				A74AF0A81F6CA2490000CD5F /* ARKitNavigationDemoTests */,
 				A74AF0B31F6CA2490000CD5F /* ARKitNavigationDemoUITests */,
